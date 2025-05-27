@@ -1,2 +1,2 @@
-# AWS-X6-LS
+# AWS-X6-DEMO
 AWS Demo
